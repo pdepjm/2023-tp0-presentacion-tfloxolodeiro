@@ -33,6 +33,6 @@ ayudante
 
 # ayudante secreto
 
-![el](https://user-images.githubusercontent.com/37090248/231327078-c5be11ab-b3f6-46c2-a1da-aa98e7c1ceec.jpg)
+![el](https://user-images.githubusercontent.com/37090248/231329282-5162ad1a-17b2-46ab-b585-2ba9734c3911.png)
 
 ### no sabemos quien es
