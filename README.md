@@ -21,7 +21,7 @@ ayudante
 
 ------
 
-# Ayudante 3: "Lauti"
+# Ayudante 3: "Lau"
 
 ![1](https://user-images.githubusercontent.com/37090248/231323904-e0c30515-35d0-45fd-abca-e6faa9829cc7.png)
 
